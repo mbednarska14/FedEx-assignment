@@ -1,7 +1,6 @@
-
 export type Planet = {
-    name: string;
-    population: string;
-    climate: string;
-    gravity: string;
-}
+  name: string;
+  population: string;
+  climate: string;
+  gravity: string;
+};
